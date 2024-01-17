@@ -13,6 +13,8 @@
 <hr>
 <h3> I Previously Learned </h3>
 <h4> Iowa State Univeristy </h4>
+- SE185 Problem Solving in Software Engineering I <br>
+- SE101 Software Engineering Orientation <br>
 
 
 
