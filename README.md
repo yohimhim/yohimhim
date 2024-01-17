@@ -7,6 +7,8 @@
 <h3> I'm Currently Learning </h3> 
 <h4> Iowa State Univeristy </h4>
 - COMS227 Object-oriented Programming <br>
+- SE186 Problem Solving in Software Engineering II <br>
+- SE166 Careers in Software Engineering <br>
 
 <hr>
 <h3> I Previously Learned </h3>
