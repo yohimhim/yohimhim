@@ -5,7 +5,8 @@
 
 I'm Currently Learning
 - 💞️ I’m looking to collaborate with Jimmy Butler <br>
-- 📫 How to reach me ...
+- 📫 How to reach me ... <br>
+<hr>
 I Previously Learned
 <!---
 yohimhim/yohimhim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
