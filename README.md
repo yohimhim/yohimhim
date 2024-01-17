@@ -4,12 +4,16 @@
 - 📫  <br>
 <hr>
 
-<h3> I'm Currently Learning </h3>
+<h3> I'm Currently Learning </h3> <br>
 <h4> Iowa State Univeristy </h4>
 - COMS227 Object-oriented Programming <br>
 
 <hr>
 <h3> I Previously Learned </h3>
+<h4> Iowa State Univeristy </h4>
+
+
+
 <!---
 yohimhim/yohimhim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
