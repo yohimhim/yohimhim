@@ -1,7 +1,9 @@
 Hi, I’m Marcus Yeung
+
 <hr>
-- 🌱 I’m currently a student at Iowa State University🌪️
-- 💞️ I’m looking to collaborate with Jimmy Butler
+
+- 🌱 I’m currently a student at Iowa State University🌪️<br>
+- 💞️ I’m looking to collaborate with Jimmy Butler <br>
 - 📫 How to reach me ...
 
 <!---
