@@ -1,11 +1,13 @@
 
 <h3> Hi, I’m Marcus Yeung </h3>
 - 🌱 I’m currently a student at Iowa State University🌪️<br>
+- 📫  <br>
 <hr>
 
 <h3> I'm Currently Learning </h3>
-- 💞️ I’m looking to collaborate with Jimmy Butler <br>
-- 📫 How to reach me ... <br>
+<h4> Iowa State Univeristy </h4>
+- COMS227 Object-oriented Programming <br>
+
 <hr>
 <h3> I Previously Learned </h3>
 <!---
