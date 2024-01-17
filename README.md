@@ -16,6 +16,7 @@
 - SE185 Problem Solving in Software Engineering I <br>
 - SE101 Software Engineering Orientation <br>
 
+<hr>
 
 
 <!---
