@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yohimhim
 - 👀 I’m interested in basketball and coding
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently a student at Iowa State University🌪️
 - 💞️ I’m looking to collaborate with Jimmy Butler
 - 📫 How to reach me ...
 
