@@ -16,7 +16,7 @@
 - SE185 Problem Solving in Software Engineering I <br>
 - SE101 Software Engineering Orientation <br>
 <h4> New Trier Township High School</h4>
-- hello
+- 
 
 <hr>
 
