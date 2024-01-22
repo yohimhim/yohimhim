@@ -16,7 +16,10 @@
 - SE185 Problem Solving in Software Engineering I <br>
 - SE101 Software Engineering Orientation <br>
 <h4> New Trier Township High School</h4>
-- 
+- Web and Multimeadia Development <br>
+- IOS App Development <br>
+- AP Computer Science <br>
+- Intro Engineer Design (PLTW) <br>
 
 <hr>
 
