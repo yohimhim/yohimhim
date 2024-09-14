@@ -1,7 +1,8 @@
 
 <h3> Hi, I’m Marcus Yeung </h3>
-- 🌱 I’m currently a student at Iowa State University🌪️<br>
-- 📫  <br>
+- 🌱 I’m currently a student at Iowa State University (Software Engineering - Sophmore)🌪️<br>
+- 📫 yo.himhim@gmail.com <br>
+
 <hr>
 
 <h3> I'm Currently Learning </h3> 
