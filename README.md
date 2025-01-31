@@ -7,18 +7,20 @@
 
 <h3> I'm Currently Learning </h3> 
 <h4> Iowa State Univeristy </h4>
-- COMS228 Introduction to Data Structures <br>
-- CPRE281 Digital Logic <br>
-- MATH265 Calculus III <br>
+- CPRE 288 Embedded Systems I <br>
+- CPRE 310 Theoretical Foundations of Computer Engineering <br>
+- SE 319 Construction of User Interfaces <br>
 
 <hr>
 <h3> I Previously Learned </h3>
 <h4> Iowa State Univeristy </h4>
-- SE185 Problem Solving in Software Engineering I <br>
-- SE101 Software Engineering Orientation <br>
-- COMS227 Object-oriented Programming <br>
-- SE186 Problem Solving in Software Engineering II <br>
-- SE166 Careers in Software Engineering <br>
+- COMS 228 Introduction to Data Structures <br>
+- CPRE 281 Digital Logic <br>
+- SE 185 Problem Solving in Software Engineering I <br>
+- SE 101 Software Engineering Orientation <br>
+- COMS 227 Object-oriented Programming <br>
+- SE 186 Problem Solving in Software Engineering II <br>
+- SE 166 Careers in Software Engineering <br>
 <h4> New Trier Township High School</h4>
 - Web and Multimeadia Development <br>
 - IOS App Development <br>
