@@ -11,6 +11,7 @@
 - CPRE 288 Embedded Systems I <br>
 - CPRE 310 Theoretical Foundations of Computer Engineering <br>
 - SE 319 Construction of User Interfaces <br>
+- COM S 363 Database Management Systems <br>
 
 <hr>
 <h3> I Previously Learned </h3>
