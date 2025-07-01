@@ -11,8 +11,8 @@
 
 **At Iowa State University** 
 
+---
 
-<hr>
 ## 📚 Courses Completed
 
 ### Iowa State University
