@@ -1,6 +1,6 @@
 
 <h3> Hi, I’m Marcus Yeung </h3>
-- 🌱 I’m currently a student at Iowa State University (Software Engineering - Sophmore)🌪️<br>
+- 🌱 I’m currently a student at Iowa State University (Software Engineering - Junior)🌪️<br>
 - 📫 yo.himhim@gmail.com <br>
 - 📞 847-219-2119 <br>
 
