@@ -1,29 +1,30 @@
 
 <h3> Hi, I’m Marcus Yeung </h3>
-- 🌱 I’m currently a student at Iowa State University (Software Engineering - Junior)🌪️<br>
+- 🎓 Junior | Software Engineering student at **Iowa State University** 🌪️  
 - 📫 yo.himhim@gmail.com <br>
 - 📞 847-219-2119 <br>
 
 <hr>
 
-<h3> I'm Currently Learning </h3> 
-<h4> Iowa State Univeristy </h4>
+
+## 🚀 Currently Learning
+
+**At Iowa State University** 
 
 
 <hr>
-<h3> I Previously Learned </h3>
-<h4> Iowa State Univeristy </h4>
-- CPRE 288 Embedded Systems I <br>
-- CPRE 310 Theoretical Foundations of Computer Engineering <br>
-- SE 319 Construction of User Interfaces <br>
-- COM S 363 Database Management Systems <br>
-- COMS 228 Introduction to Data Structures <br>
-- CPRE 281 Digital Logic <br>
-- SE 185 Problem Solving in Software Engineering I <br>
-- SE 101 Software Engineering Orientation <br>
-- COMS 227 Object-oriented Programming <br>
-- SE 186 Problem Solving in Software Engineering II <br>
-- SE 166 Careers in Software Engineering <br>
+## 📚 Courses Completed
+
+### Iowa State University
+- **SE 319** – Construction of User Interfaces  
+- **COM S 363** – Database Management Systems  
+- **CPRE 310** – Theoretical Foundations of Computer Engineering  
+- **CPRE 288** – Embedded Systems I  
+- **COM S 228** – Introduction to Data Structures  
+- **COM S 227** – Object-Oriented Programming  
+- **CPRE 281** – Digital Logic  
+- **SE 185 / SE 186** – Problem Solving in Software Engineering I & II  
+- **SE 101 / SE 166** – Software Engineering Orientation / Careers in SE 
 <h4> New Trier Township High School</h4>
 - Web and Multimeadia Development <br>
 - IOS App Development <br>
