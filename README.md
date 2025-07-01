@@ -1,6 +1,6 @@
 
 <h3> Hi, I’m Marcus Yeung </h3>
-- 🎓 Junior | Software Engineering student at **Iowa State University** 🌪️  
+- 🎓 Junior | Software Engineering student at **Iowa State University** 🌪️ <br> 
 - 📫 yo.himhim@gmail.com <br>
 - 📞 847-219-2119 <br>
 
