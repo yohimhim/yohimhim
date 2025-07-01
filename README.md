@@ -25,11 +25,6 @@
 - **CPRE 281** – Digital Logic  
 - **SE 185 / SE 186** – Problem Solving in Software Engineering I & II  
 - **SE 101 / SE 166** – Software Engineering Orientation / Careers in SE 
-<h4> New Trier Township High School</h4>
-- Web and Multimeadia Development <br>
-- IOS App Development <br>
-- AP Computer Science <br>
-- Intro Engineer Design (PLTW) <br>
 
 <hr>
 
