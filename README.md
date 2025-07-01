@@ -8,14 +8,15 @@
 
 <h3> I'm Currently Learning </h3> 
 <h4> Iowa State Univeristy </h4>
-- CPRE 288 Embedded Systems I <br>
-- CPRE 310 Theoretical Foundations of Computer Engineering <br>
-- SE 319 Construction of User Interfaces <br>
-- COM S 363 Database Management Systems <br>
+
 
 <hr>
 <h3> I Previously Learned </h3>
 <h4> Iowa State Univeristy </h4>
+- CPRE 288 Embedded Systems I <br>
+- CPRE 310 Theoretical Foundations of Computer Engineering <br>
+- SE 319 Construction of User Interfaces <br>
+- COM S 363 Database Management Systems <br>
 - COMS 228 Introduction to Data Structures <br>
 - CPRE 281 Digital Logic <br>
 - SE 185 Problem Solving in Software Engineering I <br>
