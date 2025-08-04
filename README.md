@@ -10,7 +10,9 @@
 ## 🚀 Currently Learning
 
 **At Iowa State University** 
-
+- **COMS 321** – Computer Architecture and Machine-Level Programming 
+- **COM S 311** – Intro to the Design and Analysis of Algorithms  
+- **COM S 309** – Software Development Practices
 ---
 
 ## 📚 Courses Completed
