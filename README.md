@@ -1,6 +1,6 @@
 
 <h3> Hi, I’m Marcus Yeung </h3>
-- 🎓 Junior | Software Engineering student at **Iowa State University** 🌪️ <br> 
+- 🎓 Junior | Software Engineering, AI Minor at **Iowa State University** 🌪️ <br> 
 - 📫 yo.himhim@gmail.com <br>
 - 📞 847-219-2119 <br>
 
@@ -10,14 +10,20 @@
 ## 🚀 Currently Learning
 
 **At Iowa State University** 
-- **COMS 321** – Computer Architecture and Machine-Level Programming 
-- **COM S 311** – Intro to the Design and Analysis of Algorithms  
-- **COM S 309** – Software Development Practices
+- **SE 421** – Software Analysis and Verification for Safety and Security 
+- **SE 317** – Software Testing 
+- **SE 339** – Software Architecture and Design
+- **CPRE 308** – Operating Systems: Principles and Practice
+- **STAT 330** – Probability and Statistics for Computer Science
+
 ---
 
 ## 📚 Courses Completed
 
 ### Iowa State University
+- **COMS 321** – Computer Architecture and Machine-Level Programming 
+- **COM S 311** – Intro to the Design and Analysis of Algorithms  
+- **COM S 309** – Software Development Practices
 - **SE 319** – Construction of User Interfaces  
 - **COM S 363** – Database Management Systems  
 - **CPRE 310** – Theoretical Foundations of Computer Engineering  
