@@ -1,9 +1,11 @@
 
-<h3> Hi, I’m Marcus Yeung </h3>
-- 🎓 Junior | Software Engineering major, Artificial Intelligence minor at **Iowa State University** 🌪️ <br>
-- 🔗 LinkedIn: https://www.linkedin.com/in/myeung23/ <br>
-- 📫 yo.himhim@gmail.com <br>
-- 📞 847-219-2119 <br>
+## Hi, I’m Marcus Yeung
+
+- 🎓 Junior | Software Engineering major, Artificial Intelligence minor at **Iowa State University** 🌪️
+- 🔗 LinkedIn: https://www.linkedin.com/in/myeung23/
+- 📫 yo.himhim@gmail.com
+- 📞 847-219-2119
+
 
 <hr>
 
