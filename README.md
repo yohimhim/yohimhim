@@ -1,7 +1,7 @@
 
 ## Hi, I’m Marcus Yeung
 
-- 🎓 Junior Software Engineering major with AI and Applied AI minors at **Iowa State University** 🌪️
+- 🎓 Senior | Software Engineering major with AI and Applied AI minors at **Iowa State University** 🌪️
 - 🔗 [LinkedIn](https://www.linkedin.com/in/myeung23/)
 - 📫 yo.himhim@gmail.com
 - 📞 847-219-2119
