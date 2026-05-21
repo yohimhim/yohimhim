@@ -1,7 +1,7 @@
 
 ## Hi, I’m Marcus Yeung
 
-- 🎓 Junior | Software Engineering major, Artificial Intelligence minor at **Iowa State University** 🌪️
+- 🎓 Junior Software Engineering major with AI and Applied AI minors at **Iowa State University** 🌪️
 - 🔗 [LinkedIn](https://www.linkedin.com/in/myeung23/)
 - 📫 yo.himhim@gmail.com
 - 📞 847-219-2119
@@ -13,17 +13,22 @@
 ## 🚀 Currently Learning
 
 **At Iowa State University** 
-- **SE 421** – Software Analysis and Verification for Safety and Security 
-- **SE 317** – Software Testing 
-- **SE 339** – Software Architecture and Design
-- **CPRE 308** – Operating Systems: Principles and Practice
-- **STAT 330** – Probability and Statistics for Computer Science
+- **COM S 472** – Principles of Artificial Intelligence
+- **AI 201** – Introduction to Applied AI
+- **SE 329** – Software Project Management
+- **SE 409** – Software Requirements Engineering
+- **SE 491** – Senior Design
 
 ---
 
 ## 📚 Courses Completed
 
 ### Iowa State University
+- **SE 421** – Software Analysis and Verification for Safety and Security 
+- **SE 317** – Software Testing 
+- **SE 339** – Software Architecture and Design
+- **CPRE 308** – Operating Systems: Principles and Practice
+- **STAT 330** – Probability and Statistics for Computer Science
 - **COMS 321** – Computer Architecture and Machine-Level Programming 
 - **COM S 311** – Intro to the Design and Analysis of Algorithms  
 - **COM S 309** – Software Development Practices
